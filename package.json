@@ -1,0 +1,19 @@
+{
+  "name": "repl",
+  "main": "./lib/repl",
+  "version": "0.0.0",
+  "description": "Provide a shell for REPL environments for Atom and the Substance IDE",
+  "keywords": [
+    "repl"
+  ],
+  "activationCommands": {
+    "atom-workspace": "repl:toggle"
+  },
+  "repository": "https://github.com/AdrianVovk/repl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
